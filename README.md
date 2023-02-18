@@ -1,4 +1,4 @@
-# 500 filmes com ela (?)
+# 500 filmes com ela
 
 ## Como o projeto funciona? 
 
